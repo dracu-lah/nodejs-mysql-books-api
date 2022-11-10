@@ -5,7 +5,7 @@ Small project which is created using nodejs and mysql
 To deploy this project run
 
 ```bash
-  npm index
+  npm server
 ```
 
 ## 🔗 Links
