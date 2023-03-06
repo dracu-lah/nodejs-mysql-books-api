@@ -10,6 +10,8 @@ To install the dependecies for the project
 
 server hosted on : localhost:9000
 
+import book_db.sql to phpmyadmin for accessing the database
+
 To deploy this project run
 
 ```bash
